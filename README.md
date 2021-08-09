@@ -1,7 +1,7 @@
 # 学習した内容
-下記目的で学習をしました。
-・wordpressの基礎学習
-・wordpressの環境構築の学習
+下記目的で学習をしました。  
+* wordpressの基礎学習
+* wordpressの環境構築の学習
 
 # Wordpressで静的なホームページを作成。
 ![Aug-09-2021 13-27-42 (1)](https://user-images.githubusercontent.com/79980351/128660541-7501821f-2d3c-4066-b587-7f3764a393ce.gif)
