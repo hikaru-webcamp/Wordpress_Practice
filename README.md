@@ -10,6 +10,7 @@
   * MAMP  説明URL： https://school.dhw.co.jp/course/web/contents/w_mamp.html
   * テキストエディタ VSCODE
   * MySQL
+  * Wordpress
 
 # 学習後の感想
   * phpの学習も必要と判断したので、学習を着手する。（Rubyを学んだことがあるので理解度は早いと思っています。）  
